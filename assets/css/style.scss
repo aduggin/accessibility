@@ -9,3 +9,12 @@ h1, h2, h3, h4 {
 }
 h2 {font-size:150%}
 h3 {font-size:125%}
+
+a:link {
+  color: #005ea5;
+  text-decoration: underline;
+}
+
+a:hover, a:link {
+  font-weight: normal;
+}
